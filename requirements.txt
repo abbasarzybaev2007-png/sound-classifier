@@ -1,0 +1,7 @@
+torch>=2.2,<3
+numpy>=1.26,<3
+librosa>=0.10.2,<1
+soundfile>=0.12,<1
+scikit-learn>=1.4,<2
+streamlit>=1.35,<2
+matplotlib>=3.8,<4
