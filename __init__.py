@@ -1,1 +1,0 @@
-"""Environmental sound classification."""
